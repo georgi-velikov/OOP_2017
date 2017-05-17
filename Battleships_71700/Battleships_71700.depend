@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1491512626 source:d:\fmi-со\oop\battleships_71700\battleship.cpp
+	"Battleship.h"
+
+1491512476 d:\fmi-со\oop\battleships_71700\battleship.h
+	<iostream>
+	"position.h"
+
+1491511511 source:d:\fmi-со\oop\battleships_71700\carrier.cpp
+	"Carrier.h"
+
+1491511102 d:\fmi-со\oop\battleships_71700\carrier.h
+	<iostream>
+	"position.h"
+
+1491511523 source:d:\fmi-со\oop\battleships_71700\cruiser.cpp
+	"Cruiser.h"
+
+1491511104 d:\fmi-со\oop\battleships_71700\cruiser.h
+	<iostream>
+	"position.h"
+
+1491511451 source:d:\fmi-со\oop\battleships_71700\destroyer.cpp
+	"Destroyer.h"
+	"Submarine.h"
+
+1491511111 d:\fmi-со\oop\battleships_71700\destroyer.h
+	<iostream>
+	"position.h"
+
+1491512596 d:\fmi-со\oop\battleships_71700\position.h
+
+1491511040 d:\fmi-со\oop\battleships_71700\submarine.h
+	<iostream>
+	"position.h"
+
+1491513236 source:d:\fmi-со\oop\battleships_71700\field.cpp
+	"field.h"
+	<iostream>
+
+1491511605 d:\fmi-со\oop\battleships_71700\field.h
+	<iostream>
+
+1491512763 source:d:\fmi-со\oop\battleships_71700\main.cpp
+	<iostream>
+	"field.h"
+
+1491512603 source:d:\fmi-со\oop\battleships_71700\position.cpp
+	"position.h"
+
+1491511443 source:d:\fmi-со\oop\battleships_71700\submarine.cpp
+	"Submarine.h"
+

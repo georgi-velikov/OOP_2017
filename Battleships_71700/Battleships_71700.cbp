@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Battleships_71700" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Battleships_71700" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../Battleships_71700" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Battleships_71700" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../Battleships_71700" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Battleship.cpp" />
+		<Unit filename="Battleship.h" />
+		<Unit filename="Carrier.cpp" />
+		<Unit filename="Carrier.h" />
+		<Unit filename="Cruiser.cpp" />
+		<Unit filename="Cruiser.h" />
+		<Unit filename="Destroyer.cpp" />
+		<Unit filename="Destroyer.h" />
+		<Unit filename="Ship.cpp" />
+		<Unit filename="Ship.h" />
+		<Unit filename="Submarine.cpp" />
+		<Unit filename="Submarine.h" />
+		<Unit filename="field.cpp" />
+		<Unit filename="field.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="position.cpp" />
+		<Unit filename="position.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
