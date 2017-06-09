@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1496325575 source:d:\fmi\oop\hw4_prakt\main.cpp
+	<iostream>
+	"Delivery.h"
+	"Package.h"
+
+1495202505 source:d:\fmi\oop\hw4_prakt\nstring.cpp
+	"nString.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1495202573 d:\fmi\oop\hw4_prakt\nstring.h
+	<iostream>
+
+1496325594 source:d:\fmi\oop\hw4_prakt\delivery.cpp
+	"Delivery.h"
+	<cstring>
+	<iostream>
+	"nString.h"
+
+1496325417 d:\fmi\oop\hw4_prakt\delivery.h
+	"nString.h"
+
+1496325556 d:\fmi\oop\hw4_prakt\package.h
+	"Delivery.h"
+
+1497040460 source:e:\projects\codeblocks\hw4_prakt\delivery.cpp
+	"Delivery.h"
+	<cstring>
+	<iostream>
+	"nString.h"
+
+1497040474 e:\projects\codeblocks\hw4_prakt\delivery.h
+	"nString.h"
+	<iostream>
+	<cstring>
+
+1497027661 e:\projects\codeblocks\hw4_prakt\nstring.h
+	<iostream>
+
+1497041213 source:e:\projects\codeblocks\hw4_prakt\main.cpp
+	<iostream>
+	"Delivery.h"
+	"Package.h"
+	"Cargo.h"
+	"Office.h"
+	<stdlib.h>
+	<time.h>
+
+1497030864 e:\projects\codeblocks\hw4_prakt\package.h
+	"Delivery.h"
+
+1497027604 source:e:\projects\codeblocks\hw4_prakt\nstring.cpp
+	"nString.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1497030721 source:e:\projects\codeblocks\hw4_prakt\package.cpp
+	"Package.h"
+	"Delivery.h"
+
+1497032121 source:e:\projects\codeblocks\hw4_prakt\cargo.cpp
+	"Cargo.h"
+
+1497040089 e:\projects\codeblocks\hw4_prakt\cargo.h
+	"Delivery.h"
+
+1497041213 e:\projects\codeblocks\hw4_prakt\office.h
+	"Delivery.h"
+	"Vector.h"
+
+1497038610 e:\projects\codeblocks\hw4_prakt\vector.h
+
+1497041213 source:e:\projects\codeblocks\hw4_prakt\office.cpp
+	"Office.h"
+	<stdlib.h>
+
+1497045646 source:d:\fmi\oop\практикум\hw4_prakt\delivery.cpp
+	"Delivery.h"
+	<cstring>
+	<iostream>
+	"nString.h"
+
+1497045665 d:\fmi\oop\практикум\hw4_prakt\delivery.h
+	"nString.h"
+	<iostream>
+	<cstring>
+
+1497031261 d:\fmi\oop\практикум\hw4_prakt\nstring.h
+	<iostream>
+
+1497031204 source:d:\fmi\oop\практикум\hw4_prakt\nstring.cpp
+	"nString.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1497046135 source:d:\fmi\oop\практикум\hw4_prakt\package.cpp
+	"Package.h"
+	"Delivery.h"
+
+1497046149 d:\fmi\oop\практикум\hw4_prakt\package.h
+	"Delivery.h"
+
+1497046035 source:d:\fmi\oop\практикум\hw4_prakt\main.cpp
+	<iostream>
+	"Delivery.h"
+	"Package.h"
+	"Cargo.h"
+	"Office.h"
+	<stdlib.h>
+	<time.h>
+
+1497046387 d:\fmi\oop\практикум\hw4_prakt\cargo.h
+	"Delivery.h"
+
+1497046183 d:\fmi\oop\практикум\hw4_prakt\office.h
+	"Delivery.h"
+	"Vector.h"
+
+1497042210 d:\fmi\oop\практикум\hw4_prakt\vector.h
+
+1497046075 source:d:\fmi\oop\практикум\hw4_prakt\office.cpp
+	"Office.h"
+	<stdlib.h>
+
+1497035721 source:d:\fmi\oop\практикум\hw4_prakt\cargo.cpp
+	"Cargo.h"
+
